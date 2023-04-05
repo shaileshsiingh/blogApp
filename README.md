@@ -1,4 +1,7 @@
-## Next + Firebase Blog app 🔥
+## Next + Firebase Blog app 
+To start please do npm i and
+then npm run dev.
 
-live link : https://nextjs-project-khaki.vercel.app/
-
+used to firebase to authenticate users.
+Users can read, write and search blogs.
+Tech stacks - Nextjs, Reactjs, Firebase and CSS
